@@ -15,6 +15,7 @@ Home page:
 <img width="1577" alt="Screen Shot 2022-08-24 at 09 28 21" src="https://user-images.githubusercontent.com/100241036/186421690-90448d09-d84b-45d5-9841-6289d96525ac.png">
 <br>Custom pokemon search result:<br>
 <img width="1574" alt="Screen Shot 2022-08-24 at 09 30 36" src="https://user-images.githubusercontent.com/100241036/186421740-d9f6fe93-736e-4e8b-a442-e10db5ff3f4d.png">
+<br>Alphabetical order<br>
 <img width="1566" alt="Screen Shot 2022-08-24 at 09 31 22" src="https://user-images.githubusercontent.com/100241036/186421756-7ce97f70-a39c-492e-a534-606af1c719df.png">
 <br>
 404 page: 
