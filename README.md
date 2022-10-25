@@ -6,7 +6,7 @@ Front end: React, Redux and CSS.
 <br>Landing page:<br>
 <img width="1347" alt="Screen Shot 2022-08-24 at 09 27 07" src="https://user-images.githubusercontent.com/100241036/186421542-52203807-496c-4f18-9410-cfa695f60b75.png">
 <br>
-Search result:
+Home page:
 <br>
 <img width="1345" alt="Screen Shot 2022-08-24 at 09 27 20" src="https://user-images.githubusercontent.com/100241036/186421656-083dc389-3492-4ec0-aefd-b39d42222e3e.png">
 <br><br>
