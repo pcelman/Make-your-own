@@ -1,7 +1,7 @@
 On this project I used an API to fetch the information.
 I used the following technologies:
-Back end: Node.JS, PostgreSQL and Express.
-Front end: React, Redux and CSS.
+Back end: <br> Node.JS, PostgreSQL and Express.<br>
+Front end:<br> React, Redux and CSS.
 <br>
 <br>Landing page:<br>
 <img width="1347" alt="Screen Shot 2022-08-24 at 09 27 07" src="https://user-images.githubusercontent.com/100241036/186421542-52203807-496c-4f18-9410-cfa695f60b75.png">
