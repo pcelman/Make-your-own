@@ -1,4 +1,4 @@
-On this project I used an API to fetch the information.
+On this project I used an API https://pokeapi.co/ to fetch images and information about Pokemons.
 I used the following technologies:
 Back end: <br> Node.JS, PostgreSQL and Express.<br>
 Front end:<br> React, Redux and CSS.
@@ -27,7 +27,7 @@ You´d also need to download the zip of this repository and create an .env file 
 DB_USER=[your postgres user name] <br>
 DB_PASSWORD=[your postgres password]<br>
 DB_HOST=localhost<br>
-You´d also need to open a terminal inside the api folder and run npm install and npm start once the installation is completed. Repeat these two steps on the client folder aswell.
+You´d also need to open a terminal inside the api folder and run npm install and npm start once the installation is completed. Repeat these two steps on the client folder.
 If everything works properly, the API should load on your internet browser. 
 
 
